@@ -3,8 +3,10 @@ module github.com/young-steveo/jacquard-ai
 go 1.19
 
 require (
+	github.com/BurntSushi/toml v0.3.1
 	github.com/awesome-gocui/gocui v1.1.0
 	github.com/fatih/color v1.15.0
+	github.com/go-playground/assert/v2 v2.2.0
 	github.com/gobuffalo/flect v1.0.2
 	github.com/grassmudhorses/vader-go v0.0.0-20191126145716-003d5aacdb71
 	github.com/looplab/fsm v1.0.1
